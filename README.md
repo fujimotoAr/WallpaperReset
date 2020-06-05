@@ -1,0 +1,1 @@
+## Simple app to reset wallpaper to black
